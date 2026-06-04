@@ -4,7 +4,7 @@ import os
 from datetime import datetime, timezone
 
 # ========== CONFIG ==========
-TOKEN = "MTUxMTk5OTkyOTg0Mzg0NzE3OA.GmBuxm.UQFLpnAcO0AXMr6IfmTonJ1jYf-cjAW8_XVLT4"  # ใส่ Token บอทของคุณ
+TOKEN = "MTUxMTk5OTkyOTg0Mzg0NzE3OA.GmBuxm.UQFLpnAcO0AXMr6IfmTonJ1jYf-cjAW8_XVLT4" 
 DATA_FILE = "voice_data.json"
 # ============================
 
